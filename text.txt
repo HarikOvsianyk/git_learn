@@ -1,2 +1,3 @@
 hello world
 new text in my file
+New text for third commit
